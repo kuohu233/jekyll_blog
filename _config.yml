@@ -18,12 +18,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Sample Test # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Tagline Test # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Try to write something here
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
@@ -77,7 +77,7 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
-  "/assets/avatar_logo.jpg"
+  "/assets/avatar_logo.jpeg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
